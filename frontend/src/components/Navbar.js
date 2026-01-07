@@ -86,7 +86,7 @@ const Navbar = () => {
               fontWeight: 600,
             }}
           >
-            Employee Management System
+            Welcome to CMRCET
           </Typography>
 
           {/* Render drawer icon for mobile view */}
