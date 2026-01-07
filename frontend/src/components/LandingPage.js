@@ -70,7 +70,7 @@ const LandingPage = () => {
               },
             }}
           >
-            Go to Dashboard
+            Go to CMRCET
           </Button>
         </Box>
 
@@ -151,7 +151,7 @@ const LandingPage = () => {
                     },
                   }}
                 >
-                  Go to Dashboard
+                  GO TO CMRCET
                 </Button>
               </CardContent>
             </Card>
